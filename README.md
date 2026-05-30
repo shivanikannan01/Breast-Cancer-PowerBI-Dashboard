@@ -1,5 +1,5 @@
 
-# Breast Cancer Analysis Dashboard
+# Breast Cancer Diagnostic Dashboard
 
 ## About Breast Cancer
 
